@@ -1,11 +1,11 @@
-EE 128 – Microcontroller Systems Laboratory (FRDM-K64F)
+# EE 128 – Microcontroller Systems Laboratory (FRDM-K64F)
 
 This repository contains my laboratory work for EE 128 (Microcontroller Systems) at the University of California, Riverside. The labs focus on hardware–software integration using the FRDM-K64F (MK64FN1M0VLL12) microcontroller, covering digital I/O, interrupts, timers, ADC, motor control, and serial communication protocols.
 
 All labs include source code, schematics, and documentation demonstrating low-level embedded systems programming and hardware interfacing.
 
-Labs Overview
-Lab 1 – Schematic Design & Cadence Capture
+## Labs Overview
+- Lab 1 – Schematic Design & Cadence Capture
 
 Installed and configured Cadence Capture CIS
 
